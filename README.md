@@ -1,5 +1,13 @@
 # Twitter-Sentiment-Analysis
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/twitter-sentiment-analysis-1/sentiment-analysis-on-deep-learning)](https://paperswithcode.com/sota/sentiment-analysis-on-deep-learning?p=twitter-sentiment-analysis-1)
+
+
+
+
+
+
+
 ## Dataset Information
 
 We use and compare various different methods for sentiment analysis on tweets (a binary classification problem). The training dataset is expected to be a csv file of type `tweet_id,sentiment,tweet` where the `tweet_id` is a unique integer identifying the tweet, `sentiment` is either `1` (positive) or `0` (negative), and `tweet` is the tweet enclosed in `""`. Similarly, the test dataset is a csv file of type `tweet_id,tweet`. Please note that csv headers are not expected and should be removed from the training and test datasets.  
