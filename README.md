@@ -3,7 +3,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/twitter-sentiment-analysis-1/classification-on-maximum-entropy)](https://paperswithcode.com/sota/classification-on-maximum-entropy?p=twitter-sentiment-analysis-1)
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5059862.svg)](https://doi.org/10.5281/zenodo.5059862)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5059877.svg)](https://doi.org/10.5281/zenodo.5059877)
 
 
 
